@@ -1,0 +1,111 @@
+#Save{
+    background-image: url('../Imagenes/Iconos/save.gif');
+    background-repeat: no-repeat;
+    background-position: left;
+    font-family: Verdana, 'Lucida Grande';
+    border-radius: 5px;
+    border-radius: 5px 5px 5px 5px;
+    width: 85px;
+    text-align: end;
+    height: 25px;
+    font-weight: bold;
+    border: 2px solid skyblue;
+}
+#Buscar{
+    background-image: url('../Imagenes/Iconos/zoom.png');
+    background-repeat: no-repeat;
+    background-position:left;
+    font-family: Verdana, 'Lucida Grande';
+    border-radius: 5px;
+    border-radius: 5px 5px 5px 5px;
+    width: 80px;
+    text-align: end;
+    height: 25px;
+    font-weight: bold;
+    border: 2px solid skyblue;
+    margin-left: 10px;
+}
+#Nuevo{
+    background-image: url('../Imagenes/Iconos/user_add.png');
+    background-repeat: no-repeat;
+    background-position:left;
+    font-family: Verdana, 'Lucida Grande';
+    border-radius: 5px;
+    border-radius: 5px 5px 5px 5px;
+    width: 75px;
+    text-align: end;
+    height: 25px;
+    font-weight: bold;
+    border: 2px solid skyblue;
+    margin-left: 10px;
+}
+#NuevoProducto{
+    background-image: url('../Imagenes/Iconos/add.gif');
+    background-repeat: no-repeat;
+    background-position:left;
+    font-family: Verdana, 'Lucida Grande';
+    border-radius: 5px;
+    border-radius: 5px 5px 5px 5px;
+    width: 75px;
+    text-align: end;
+    height: 25px;
+    font-weight: bold;
+    border: 2px solid skyblue;
+    margin-left: 10px;
+}
+#Limpiar{
+    background-image: url('../Imagenes/Iconos/arrow_refresh.png');
+    background-repeat: no-repeat;
+    background-position:left;
+    font-family: Verdana, 'Lucida Grande';
+    border-radius: 5px;
+    border-radius: 5px 5px 5px 5px;
+    width: 85px;
+    text-align: end;
+    height: 25px;
+    font-weight: bold;
+    border: 2px solid skyblue;
+    margin-left: 10px;
+}
+#Salir{
+    background-image: url('../Imagenes/Iconos/volver.png');
+    background-repeat: no-repeat;
+    background-position:left;
+    font-family: Verdana, 'Lucida Grande';
+    border-radius: 5px;
+    border-radius: 5px 5px 5px 5px;
+    width: 60px;
+    text-align: end;
+    height: 25px;
+    font-weight: bold;
+    border: 2px solid skyblue;
+    margin-left: 10px;
+}
+#Agregar{
+    background-image: url('../Imagenes/Iconos/cart_add.png');
+    background-repeat: no-repeat;
+    background-position:left;
+    font-family: Verdana, 'Lucida Grande';
+    border-radius: 5px;
+    border-radius: 5px 5px 5px 5px;
+    width: 145px;
+    text-align: end;
+    height: 25px;
+    font-weight: bold;
+    border: 2px solid skyblue;
+    margin-left: 10px;
+}
+#Modificar{
+    background-image: url('../Imagenes/Iconos/save.gif');
+    background-repeat: no-repeat;
+    background-position:left;
+    font-family: Verdana, 'Lucida Grande';
+    border-radius: 5px;
+    border-radius: 5px 5px 5px 5px;
+    width: 100px;
+    text-align: end;
+    height: 25px;
+    font-weight: bold;
+    border: 2px solid skyblue;
+    margin-left: 10px;
+}
